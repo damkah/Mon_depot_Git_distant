@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Modification sur master
+=======
+Modification sur ma-nouvelle-branche
+>>>>>>> ma-nouvelle-branche
